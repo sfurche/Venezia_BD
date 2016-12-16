@@ -1,8 +1,6 @@
 1-Esta es una primera version del documentos.
-<<<<<<< HEAD
-2-
-=======
 2-Cambio generado sobre la branch 20161216_sebabranch01
 3-Juli aporte
 4-Nuevo aporte de Seba.
->>>>>>> refs/remotes/origin/master
+5-Juli aporte
+
